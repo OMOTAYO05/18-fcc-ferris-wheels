@@ -1,6 +1,6 @@
-# Project Name
+# Ferris Wheels
 
-> One paragraph statement about the project.
+> A fcc project built by css and html to learn css animation.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,33 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5
+  - `div`
+- CSS
+  - `transform`
+  - `padding`
+  - `margin`
+  - `animation`
+  - `border`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment link
+
+[Deployment-Link](https://vercel.com/onikosi-omotayo-eniolas-projects/18-fcc-ferris-wheels)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
